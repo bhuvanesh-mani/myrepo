@@ -2,8 +2,4 @@ this is my file for commiting
 
 Added 2nd line
 
-<<<<<<< Updated upstream
-=======
 Again Replaced in feature branch
->>>>>>> Stashed changes
-New in master
