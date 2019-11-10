@@ -2,4 +2,4 @@ this is my file for commiting
 
 Added 2nd line
 
-Replaced in feature branch
+New in master
