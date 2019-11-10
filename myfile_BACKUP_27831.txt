@@ -1,9 +1,0 @@
-this is my file for commiting
-
-Added 2nd line
-
-<<<<<<< HEAD
-Again Replaced in feature branch
-=======
-New in master
->>>>>>> master
